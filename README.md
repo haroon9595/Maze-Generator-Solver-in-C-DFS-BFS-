@@ -45,11 +45,5 @@ A professional **Maze Generator and Solver** developed in **C#** using **Windows
    - Current cell, visited cells, walls, and final path highlighted with colors
    - Animation with controlled speed
 
----
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YourUsername/MazeGeneratorSolver.git
